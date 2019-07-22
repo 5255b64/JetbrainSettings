@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.test.LogUtil.info(str)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
